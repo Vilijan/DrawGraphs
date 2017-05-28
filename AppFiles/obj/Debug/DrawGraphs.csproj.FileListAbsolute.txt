@@ -10,3 +10,15 @@ E:\w10Downloads\VP_proekt\DrawGraphs\AppFiles\obj\Debug\Test.WeightedGraph.resou
 E:\w10Downloads\VP_proekt\DrawGraphs\AppFiles\obj\Debug\DrawGraphs.csproj.GenerateResource.Cache
 E:\w10Downloads\VP_proekt\DrawGraphs\AppFiles\obj\Debug\Test.exe
 E:\w10Downloads\VP_proekt\DrawGraphs\AppFiles\obj\Debug\Test.pdb
+E:\Vili\Fakultet\Chetvrt semestar\VizuelnoProgramiranje\Proekt\AppFiles\bin\Debug\Test.exe.config
+E:\Vili\Fakultet\Chetvrt semestar\VizuelnoProgramiranje\Proekt\AppFiles\bin\Debug\Test.exe
+E:\Vili\Fakultet\Chetvrt semestar\VizuelnoProgramiranje\Proekt\AppFiles\bin\Debug\Test.pdb
+E:\Vili\Fakultet\Chetvrt semestar\VizuelnoProgramiranje\Proekt\AppFiles\obj\Debug\DrawGraphs.csprojResolveAssemblyReference.cache
+E:\Vili\Fakultet\Chetvrt semestar\VizuelnoProgramiranje\Proekt\AppFiles\obj\Debug\Test.InputWeight.resources
+E:\Vili\Fakultet\Chetvrt semestar\VizuelnoProgramiranje\Proekt\AppFiles\obj\Debug\Test.UnweightedGraph.resources
+E:\Vili\Fakultet\Chetvrt semestar\VizuelnoProgramiranje\Proekt\AppFiles\obj\Debug\Test.Home.resources
+E:\Vili\Fakultet\Chetvrt semestar\VizuelnoProgramiranje\Proekt\AppFiles\obj\Debug\Test.Properties.Resources.resources
+E:\Vili\Fakultet\Chetvrt semestar\VizuelnoProgramiranje\Proekt\AppFiles\obj\Debug\Test.WeightedGraph.resources
+E:\Vili\Fakultet\Chetvrt semestar\VizuelnoProgramiranje\Proekt\AppFiles\obj\Debug\DrawGraphs.csproj.GenerateResource.Cache
+E:\Vili\Fakultet\Chetvrt semestar\VizuelnoProgramiranje\Proekt\AppFiles\obj\Debug\Test.exe
+E:\Vili\Fakultet\Chetvrt semestar\VizuelnoProgramiranje\Proekt\AppFiles\obj\Debug\Test.pdb

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Home));
             this.weighted = new System.Windows.Forms.Button();
             this.unweighted = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -38,10 +39,10 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.weighted.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.weighted.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.weighted.Location = new System.Drawing.Point(90, 31);
+            this.weighted.Font = new System.Drawing.Font("Segoe Print", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.weighted.Location = new System.Drawing.Point(102, 71);
             this.weighted.Name = "weighted";
-            this.weighted.Size = new System.Drawing.Size(226, 71);
+            this.weighted.Size = new System.Drawing.Size(297, 83);
             this.weighted.TabIndex = 1;
             this.weighted.Text = "Draw Weighted Graph";
             this.weighted.UseVisualStyleBackColor = true;
@@ -53,10 +54,10 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.unweighted.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.unweighted.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.unweighted.Location = new System.Drawing.Point(90, 195);
+            this.unweighted.Font = new System.Drawing.Font("Segoe Print", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.unweighted.Location = new System.Drawing.Point(102, 176);
             this.unweighted.Name = "unweighted";
-            this.unweighted.Size = new System.Drawing.Size(226, 71);
+            this.unweighted.Size = new System.Drawing.Size(297, 93);
             this.unweighted.TabIndex = 2;
             this.unweighted.Text = "Draw Unweighted Graph";
             this.unweighted.UseVisualStyleBackColor = true;
@@ -66,7 +67,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(413, 298);
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.ClientSize = new System.Drawing.Size(484, 341);
             this.Controls.Add(this.unweighted);
             this.Controls.Add(this.weighted);
             this.MinimumSize = new System.Drawing.Size(429, 337);
