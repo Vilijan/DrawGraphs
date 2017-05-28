@@ -1,0 +1,24 @@
+c:\users\vilijan\documents\visual studio 2017\Projects\Test\Test\bin\Debug\Test.exe.config
+c:\users\vilijan\documents\visual studio 2017\Projects\Test\Test\bin\Debug\Test.exe
+c:\users\vilijan\documents\visual studio 2017\Projects\Test\Test\bin\Debug\Test.pdb
+c:\users\vilijan\documents\visual studio 2017\Projects\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\vilijan\documents\visual studio 2017\Projects\Test\Test\obj\Debug\Test.Properties.Resources.resources
+c:\users\vilijan\documents\visual studio 2017\Projects\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+c:\users\vilijan\documents\visual studio 2017\Projects\Test\Test\obj\Debug\Test.exe
+c:\users\vilijan\documents\visual studio 2017\Projects\Test\Test\obj\Debug\Test.pdb
+C:\Users\Vilijan\documents\visual studio 2017\Projects\Test\Test\obj\Debug\Test.Home.resources
+C:\Users\Vilijan\documents\visual studio 2017\Projects\Test\Test\obj\Debug\Test.UnweightedGraph.resources
+C:\Users\Vilijan\documents\visual studio 2017\Projects\Test\Test\obj\Debug\Test.WeightedGraph.resources
+C:\Users\Vilijan\documents\visual studio 2017\Projects\Test\Test\obj\Debug\Test.InputWeight.resources
+E:\w10Downloads\VP_proekt\Test\bin\Debug\Test.exe.config
+E:\w10Downloads\VP_proekt\Test\bin\Debug\Test.exe
+E:\w10Downloads\VP_proekt\Test\bin\Debug\Test.pdb
+E:\w10Downloads\VP_proekt\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\w10Downloads\VP_proekt\Test\obj\Debug\Test.InputWeight.resources
+E:\w10Downloads\VP_proekt\Test\obj\Debug\Test.UnweightedGraph.resources
+E:\w10Downloads\VP_proekt\Test\obj\Debug\Test.Home.resources
+E:\w10Downloads\VP_proekt\Test\obj\Debug\Test.Properties.Resources.resources
+E:\w10Downloads\VP_proekt\Test\obj\Debug\Test.WeightedGraph.resources
+E:\w10Downloads\VP_proekt\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\w10Downloads\VP_proekt\Test\obj\Debug\Test.exe
+E:\w10Downloads\VP_proekt\Test\obj\Debug\Test.pdb
